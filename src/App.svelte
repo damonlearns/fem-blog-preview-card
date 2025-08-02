@@ -1,6 +1,6 @@
 <script>
-  import illustImg from '/images/illustration-article.svg'
-  import avatarImg from '/images/image-avatar.webp'
+  import illustImg from '/illustration-article.svg'
+  import avatarImg from '/image-avatar.webp'
   import viteLogo from '/vite.svg'
   import Counter from './lib/Counter.svelte'
 </script>
