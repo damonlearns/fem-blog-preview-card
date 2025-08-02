@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-    base: 'fem-blog-preview-card',
+    base: '/fem-blog-preview-card/',
     plugins: [
         svelte(),
         tailwindcss()
